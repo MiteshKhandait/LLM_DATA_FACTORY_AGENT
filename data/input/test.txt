@@ -1,0 +1,7 @@
+Government of Maharashtra
+
+This is a sample annual report for testing the document loader.
+
+Department: Agriculture
+Budget: Rs. 150 crore
+Target beneficiaries: Farmers
